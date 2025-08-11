@@ -1,0 +1,11 @@
+# Para manipulação de dados geoespaciais
+geopandas
+# Para conectar com o PostgreSQL
+psycopg2-binary
+SQLAlchemy
+GeoAlchemy2
+# Para a API
+fastapi
+uvicorn[standard]
+# Para chamadas HTTP (baixar dados do censo)
+requests
